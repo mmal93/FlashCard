@@ -1,0 +1,3 @@
+git clone https://github.com/mmal93/FlashCard.git
+npm install -g @angular/cli
+ng new flash-card
