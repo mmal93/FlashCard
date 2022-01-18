@@ -1,0 +1,1 @@
+- create new wordpress theme base on https://www.kunshtech.com/blog/how-to-integrate-a-headless-wordpress-with-angular/

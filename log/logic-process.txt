@@ -1,0 +1,12 @@
+- he thong bai hoc
+- he thong tinh diem
+- he thong share
+- he thong tinh diem kinh nghiem
+- he thong quan ly user
+#description
+- card: moi card co 3 phan: keyword, hinh anh/van ban goi y, noi dung giai thich chi tiet.
+  moi card sec co phan footer action giup nguoi hoc luu lai bai/share
+  card dang bai test se co 2 phan, phan noi dung cau hoi, phan goi y, footer se la action tra loi cau hoi
+- bai hoc: moi bai hoc co nhieu card, moi card co cac chuc nang: luu the yeu thich vao bo suu tap, danh dau chua thuoc luu vao on lai, share cho ban be
+  moi bai hoc cung se co cac bai test, moi khi lam bai test hoc bai hoc se duoc tinh diem kinh nghiem. nguoi dung co the share diem kinh nghiem cho nguoi khac.
+
